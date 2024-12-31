@@ -39,6 +39,16 @@ This repository documents my journey to master Data Structures and Algorithms (D
   - [HackerRank](https://www.hackerrank.com)
 
 ---
+.
+├── Day01/
+│   ├── Problem1.md        # Problem statement
+│   ├── solution.py        # Code solution
+│   └── notes.md           # Insights or notes
+├── Day02/
+│   ├── Problem2.md        # Problem statement
+│   ├── solution.py        # Code solution
+│   └── notes.md           # Insights or notes
+└── README.md
 
 
 
